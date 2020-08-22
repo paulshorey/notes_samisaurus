@@ -1,6 +1,6 @@
 # Add Words!
 
-## 'hello' + \(done\)
+## 'hello' + \(done, op\)
 
 ```text
 Add 'hello' to 3 letter nouns/pronouns
@@ -37,7 +37,7 @@ Add 'hello' to 3 letter nouns/pronouns
     hello depression
 ```
 
-## + "101" \(done\)
+## + "101" \(done, op\)
 
 ```text
 if phrase contains interrogative word, and noun then 
@@ -51,7 +51,7 @@ extract the noun/verb word and add 101 to it
 "who is jesus?" > jesus101
 ```
 
-## 'about' + \(done\)
+## 'about' + \(done, op\)
 
 ```text
 about + noun(s) - maybe connect to words about information/interrogative
@@ -72,7 +72,7 @@ about + gerund
     about financing
 ```
 
-## add 'up'
+## add 'up' \(done, wh\)
 
 ```text
 if word ends in (k, se, ve, op, oot, ump, eet, up, op), add 'up'
@@ -111,7 +111,7 @@ if word is a verb then append with me at the end
     cook+withme.org
 ```
 
-## verb + 'me' - can use .me !
+## verb + 'me' - can use .me ! \(done, op\)
 
 ```text
 organize+me.home > organize.me
@@ -121,7 +121,7 @@ journalize+me
 entertain+me.cam
 ```
 
-## verb + 'it'
+## verb + 'it' \(done, op\)
 
 ```text
 run it
@@ -134,7 +134,7 @@ dance it
 annhialate it, 
 ```
 
-## 'i' / 'we' + root verb
+## 'i' / 'we' + root verb \(done, op\)
 
 ```text
 iwrite
@@ -149,7 +149,7 @@ we + workout
 we + apply
 ```
 
-## 'i / we' love + noun
+## 'i / we' love + noun \(done, op\)
 
 ```text
 i love + vegan.food
@@ -160,7 +160,7 @@ we love glasses.club
 we love pizza > welove.pizza
 ```
 
-## 'get' + noun
+## 'get, buy' + noun \(done, op\)
 
 ```text
 getlamps
@@ -168,9 +168,11 @@ getpizza
 getart
 getfinance
 getrecipes 
+
+buy stuff
 ```
 
-## 'love' / 'heart' + noun
+## 'love' / ~~'heart'~~ + noun \(done, op\)
 
 ```text
 lovecats.pet
@@ -178,13 +180,13 @@ lovemusic.radio
 lovebirds.dating
 lovebags.shopping
 
-heartcats.pet
-heartmusic.radio
-heartbirds.dating
-heartbags.shopping
+//heartcats.pet
+//heartmusic.radio
+//heartbirds.dating
+//heartbags.shopping
 ```
 
-## 'the' + noun + 'society'
+## 'the' + noun + 'society' \(done, op\)
 
 ```text
 the hijabi society.com
@@ -192,7 +194,7 @@ the porcupine society.net
 the curtain society.home
 ```
 
-## verb , adjective , noun + 'society/friends/club'
+## verb , adjective , noun + 'society/friends/club' \(done, op\)
 
 ```text
 run society.com
@@ -201,7 +203,7 @@ miyazaki club.film
 shibainu+club.pet
 ```
 
-## short positive mods + noun / noun\(s\)
+## short positive mods + noun / noun\(s\) \(done, op\)
 
 ```text
 good+fella (s)
@@ -219,7 +221,7 @@ great toys
 
 ```
 
-## name adds
+## name adds \(done, op\)
 
 ```text
     paul + is here.com
