@@ -1,6 +1,6 @@
 # Add Words!
 
-## 'hello' +
+## 'hello' + \(done\)
 
 ```text
 Add 'hello' to 3 letter nouns/pronouns
@@ -12,7 +12,6 @@ Add 'hello' to 3 letter nouns/pronouns
     hello dog
     hello bread
     hello rose
-
 
 2 syll: [ending in y and i]
     hello baby
@@ -38,7 +37,7 @@ Add 'hello' to 3 letter nouns/pronouns
     hello depression
 ```
 
-## + "101"
+## + "101" \(done\)
 
 ```text
 if phrase contains interrogative word, and noun then 
@@ -52,7 +51,7 @@ extract the noun/verb word and add 101 to it
 "who is jesus?" > jesus101
 ```
 
-## 'about' +
+## 'about' + \(done\)
 
 ```text
 about + noun(s) - maybe connect to words about information/interrogative
