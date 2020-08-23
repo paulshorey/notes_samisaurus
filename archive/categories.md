@@ -1,4 +1,4 @@
-# Drafty
+# Categories
 
 ## Legacy
 
