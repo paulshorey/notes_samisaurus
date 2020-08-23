@@ -1,4 +1,4 @@
-# Abbreviation Cats
+# TLDs/abbreviations synonyms
 
 Biz - business, shopping, shop,market, entrepreneur
 

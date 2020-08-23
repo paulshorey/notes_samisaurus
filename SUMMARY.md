@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Abbreviation Samisaurus](README.md)
-* [Abbreviation Cats](untitled.md)
 * [Clean Extensions List !!!](untitled-7.md)
+* [TLDs/abbreviations synonyms](tld-abbr-synonyms.md)
 
 ## Word Hacks
 
