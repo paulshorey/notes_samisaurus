@@ -17,7 +17,7 @@
 * [Poetic \(done\)](word-hacks/poetic/README.md)
   * [\_\_ extra notes \_\_](word-hacks/poetic/untitled-11.md)
 * [Add Words! \(done\)](word-hacks/make-fun-suffix.md)
-* [Replacements&Mispellings](word-hacks/misspellings.md)
+* [Replacements&Mispellings !!!](word-hacks/misspellings.md)
 * [ideas](word-hacks/append.md)
 
 ## WorkHackEndings
