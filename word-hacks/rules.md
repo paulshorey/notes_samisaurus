@@ -2,7 +2,7 @@
 
 
 
-## double letters
+## double letters \(done\)
 
 ```text
 if first word ends with same letter as the beginning of the second word then do not pair
@@ -12,7 +12,7 @@ if first word ends with same letter as the beginning of the second word then do 
     nice+eats - NO
 ```
 
-## repetition
+## repetition \(done\)
 
 ```text
 avoid repeating words in extension and name such as...
