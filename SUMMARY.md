@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Abbreviation Samisaurus](README.md)
+* [Todo:](README.md)
 * [Clean Extensions List !!!](untitled-7.md)
 * [TLDs/abbreviations synonyms](tld-abbr-synonyms.md)
 
@@ -18,6 +18,7 @@
 ---
 
 * [ARCHIVE](archive/README.md)
+  * [Abbreviation Samisaurus](archive/abbreviation-samisaurus.md)
   * [Lists of Helping Words](archive/lists-of-helping-words.md)
   * [Extension Suggestions](archive/untitled-10.md)
   * [Categories](archive/categories.md)
