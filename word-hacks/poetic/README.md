@@ -1,6 +1,6 @@
 # Poetic
 
-### Reduplications 
+### Reduplications \(done - all on this page\)
 
 ```text
 If there are three words then the order has to go I, A, O. 
